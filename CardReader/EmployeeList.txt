@@ -1,6 +1,0 @@
-Nicholas Glover,00196956,false
-Wyatt Gleason,77234154,false
-Nick Sundvall,25618655,false
-Abel Smith,16273219,false
-Raj Kumar,92765683,false
-Darren Moore,30262357,true
